@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![YoonSeok-Heo GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonSeok-Heo&show_icons=true&theme=buefy)
+![YoonSeok-Heo GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonSeok-Heo&show_icons=true&theme=buefy)  
+
+## 언어 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonSeok-Heo&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+
+## 백준
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lov21y)](https://solved.ac/lov21y)
